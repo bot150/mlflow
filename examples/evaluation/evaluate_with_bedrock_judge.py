@@ -143,3 +143,5 @@ def main():
 if __name__ == "__main__":
     main()
 # Created: Sun Nov  2 19:53:52 IST 2025
+
+# Amazon Nova Bedrock evaluation example for MLflow

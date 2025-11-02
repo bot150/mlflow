@@ -281,3 +281,5 @@ environment variable. If using Azure OpenAI, you must also set the ``OPENAI_API_
 See `Azure OpenAI documentation <https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoints>`_
 Users do not need to set these environment variables if they are using a gateway route.
 # Amazon Nova examples added Sun Nov  2 19:53:43 IST 2025
+
+.. Amazon Nova examples added for genai metrics evaluation
